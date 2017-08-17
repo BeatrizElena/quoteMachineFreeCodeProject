@@ -1,0 +1,29 @@
+#title {
+  font-family: fantasy;
+  font-size: 500%;
+  color: blue;
+}
+
+#quote-content {
+  font-style: oblique;
+  font-family: cursive;
+  font-size: 180%;
+}
+
+#quote-author{
+  font-size: 90%;
+
+}
+
+#getQuote {
+  color: white;
+  font-family: fantasy;
+}
+
+.container-fluid {
+    background: #e6ffff;
+}
+
+.button {
+  color: blue;
+}
